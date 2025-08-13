@@ -23,6 +23,9 @@ else
     disp('Pixels to Pictures toolbox installed');
 end
 
+addpath(genpath('/MATLAB Drive/Repositories/PixelsToPictures/Image Library'));
+addpath(genpath('/MATLAB Drive/Repositories/PixelsToPictures/student_live_scripts'));
+
 disp('Course setup complete');
 
 end
