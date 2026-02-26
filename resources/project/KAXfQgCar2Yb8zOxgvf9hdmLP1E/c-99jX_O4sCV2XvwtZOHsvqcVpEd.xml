@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="setupP2P.m" GroupUUID="default" Icon="" Name="setupP2P" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="HEAD"/>
+</Info>
