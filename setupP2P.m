@@ -25,6 +25,7 @@ end
 
 addpath(genpath('/MATLAB Drive/Repositories/PixelsToPictures/Image Library'));
 addpath(genpath('/MATLAB Drive/Repositories/PixelsToPictures/student_live_scripts'));
+addpath(genpath('/MATLAB Drive/Repositories/PixelsToPictures/helper_functions'));
 
 disp('Course setup complete');
 
