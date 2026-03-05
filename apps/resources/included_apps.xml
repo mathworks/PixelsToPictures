@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includedApps>
+  <includedApp name="BlockPuzzles" identifier="a7f55ce5-d5b0-442a-8f5c-64f20306370d"/>
+  <includedApp name="ColorsRGB" identifier="5bc04ad0-d702-46ca-bed4-399159f8206c"/>
+  <includedApp name="RGBtoImage" identifier="c974a101-7937-4a72-a452-eff821ccf135"/>
+  <includedApp name="WordSearch" identifier="7e38704e-225e-43b9-85a0-831fc4a5bfb5"/>
+</includedApps>

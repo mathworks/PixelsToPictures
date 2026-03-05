@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>Pixels to Pictures</label>
+  <version>2.0</version>
+  <type>Toolbox</type>
+  <identifier>50442027-2364-4c4a-9e69-0efefe022316</identifier>
+  <description>Learn MATLAB through image processing and manipulation</description>
+  <image>resources/screenshot.png</image>
+</addonCore>
