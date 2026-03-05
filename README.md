@@ -71,28 +71,32 @@ They will follow along with these and are not given a set of Instructor Guides.
 Included are worksheets and handouts that students fill out to reinforce concepts, the modules indicate when to print/distribute each worksheet. Handouts contain a list of vocabulary and common MATLAB commands the students need in the course. Encourage the students to refer to the handouts while completing the modules. The 'Materials' section in each activity lists the worksheets and/or handouts required for that activity.
 
 
-## Installing the Pixels to Pictures Toolbox and Materials ##
+## Installing the Pixels to Pictures Apps and Materials ##
 
 _These instructions are for both instructors and students._
 
 #### On MATLAB Online ####
-Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/PixelsToPictures) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see the file directory within the Current Folder pane.
+Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/PixelsToPictures) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see the file directory within the File pane.
 
 #### On Desktop ####
 Download or clone this repository. Open MATLAB and navigate to the folder containing the repository.
 
-#### Installing the Toolbox and Setting Up ####
+#### Installing the Apps and Setting Up ####
+Open the MATLAB project by double clicking on PixelstoPictures.prj in the Files pane. This will install the apps and add relevant folders to your path. 
+
+Or
+
 Within the Command Window, next to the >> symbol, enter the following:
 
  ```js
  >> setupP2P
 ``` 
 
-This will start installing the course toolbox and apps.
+This will start installing the course apps and add relevant folders to your path.
 
-_Note: This could take several minutes to complete. You only need to run ‘setupP2P.m’ once to install the course toolbox._
+_Note: This could take several minutes to complete. You only need to run ‘setupP2P.m’ once to install the course apps._
 
-There will be a message within the Command Window when the toolbox done installing.
+There will be a message within the Command Window when the apps are done installing.
 
 From there, you can get started by opening the modules within the 'instructor_resources > instructor_guides' folder.
 The instructions inside these will guide you through the exercises and activities.
